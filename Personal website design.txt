@@ -1,0 +1,15 @@
+Write a short document (in a text file or PDF) explaining your design choices, challenges faced, and how you addressed them.
+
+Design Choice,
+An opportunity to tell a story, though not fully but giving a glimpse, not as perfect as I imagined.
+Challenges Faced,
+Debugging.
+Time allocated. 
+
+How the challenges faced were addressed,
+By using online websites, an example, the stalk overflow, that enabled to solve the various errors. The console log to determine where the errors are found.
+
+The various errors encountered while making the portfolio as compared to the time allocated was quite a challenge. I did what I could with that specific duration.
+
+
+
